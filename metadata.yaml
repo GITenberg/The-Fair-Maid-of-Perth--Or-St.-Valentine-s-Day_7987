@@ -1,0 +1,47 @@
+_repo: The-Fair-Maid-of-Perth--Or-St.-Valentine-s-Day_7987
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "The Fair Maid of Perth (or St. Valentine's Day) is a novel by Sir Walter\
+  \ Scott. Inspired by the strange, but historically true, story of the Battle of\
+  \ the North Inch, it is set in Perth (then called 'Saint Johnstone') and other parts\
+  \ of Scotland around 1400.\nThe book had been intended to include two other stories\
+  \ in the same volume, \"My Aunt Margaret's Mirror\" and \"Death of the Laird's Jock\"\
+  , which was to have been titled St. Valentine's Eve.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7987'
+  wikidata: Q3209885
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Merchants -- Fiction'
+- !lcsh 'Perth (Scotland) -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Scotland -- History -- Robert III, 1390-1406 -- Fiction'
+- GITenberg
+title: The Fair Maid of Perth; Or, St. Valentine's Day
+url: http://www.gutenberg.org/ebooks/7987
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0
+- https://fr.wikipedia.org/wiki/La_Jolie_Fille_de_Perth
+- https://ar.wikipedia.org/wiki/%D9%81%D8%AA%D8%A7%D8%A9_%D8%A8%D9%8A%D8%B1%D8%AB_%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%D8%A9
+- https://en.wikipedia.org/wiki/The_Fair_Maid_of_Perth
